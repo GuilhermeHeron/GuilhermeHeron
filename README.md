@@ -2,8 +2,11 @@
 『💼』 - CEO da polaar <br>
 『📈』 - Fundador do treinamento " Master Of Prompts "
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHeron&show_icons=true&theme=city_lights)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHeron&stats_format=bytes&theme=city_lights)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHeron&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHeron&layout=compact&langs_count=8&theme=city_lights&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
