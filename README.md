@@ -4,9 +4,8 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHeron&theme=nord"/>
-    <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHeron&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHeron&theme=nord"/>
+  <img height="160em" src="https://ghrs.vercel.app/api?username=GuilhermeHeron&theme=nord&show_icons=true"/>
+  <img height="160em" src="https://ghrs.vercel.app/api/top-langs/?username=GuilhermeHeron&theme=nord&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
