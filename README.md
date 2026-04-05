@@ -1,6 +1,6 @@
 ## 『 Guilherme Heron 』 
-『💼』 - CEO da polaar <br>
-『📈』 - Fundador do treinamento " Master Of Prompts "
+『💼』 - Expecialista em criação de sites web
+
 <br>
 
 <div align="center">
