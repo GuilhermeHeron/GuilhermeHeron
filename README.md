@@ -5,7 +5,8 @@
 
 <div align="center">
   <img height="160em" src="https://ghrs.vercel.app/api?username=GuilhermeHeron&theme=nord&show_icons=true"/>
-  <img height="160em" src="https://ghrs.vercel.app/api/top-langs/?username=GuilhermeHeron&theme=nord&layout=compact"/>
+  <img height="160em" src="https://ghrs.vercel.app/api/top-langs/?username=GuilhermeHeron&theme=nord&langs_count=15&layout=compact"/>
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHeron&langs_count=15&layout=compact&theme=nord" /> -->
 </div>
 
 <div style="display: inline_block"><br>
