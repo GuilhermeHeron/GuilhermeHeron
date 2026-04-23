@@ -1,5 +1,5 @@
 ## 『 Guilherme Heron 』 
-『💼』 - Expecialista em criação de sites web
+『💼』 - Expecialista em criação de sites
 
 <br>
 
